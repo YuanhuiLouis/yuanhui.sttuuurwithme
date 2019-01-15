@@ -16,7 +16,7 @@
 title: Great Web Agency
 email: yl3026@columbia.edu
 description: "This is description"
-baseurl: /simple-documentation-process
+baseurl: /yuanhui.techblog/
 url: "https://YuanhuiLouis.github.io/yuanhui.techblog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -36,5 +36,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Rob Luo"
+      author: "Rob Luoo"
       category: "jekyll"
