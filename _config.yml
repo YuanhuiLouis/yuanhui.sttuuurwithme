@@ -36,5 +36,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Ron Luo"
+      author: "Rob Luo"
       category: "jekyll"
