@@ -17,7 +17,7 @@ title: Great Web Agency
 email: yl3026@columbia.edu
 description: "This is description"
 baseurl: /yuanhui.techblog/
-url: "http://YuanhuiLouis.github.io/yuanhui.techblog/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://YuanhuiLouis.github.io/yuanhui.techblog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
